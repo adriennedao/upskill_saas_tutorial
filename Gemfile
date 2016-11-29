@@ -31,6 +31,8 @@ gem 'thor', '0.19.1'
 # Use Twitter Bootstrap Library for front-end UI and layout
 gem 'bootstrap-sass', '3.3.7'
 
+# Use Hirb for better database table disply in console
+gem 'hirb', '0.7.3'
 # Use Font Awesome saas gem for adding icons
 gem 'font-awesome-sass', '4.6.2'
 
